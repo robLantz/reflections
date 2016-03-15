@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to
+do it?
+When you initialize a repo it creates the necessary meta-data files
+that will hold history and branch information.  We need to initialize
+in order to create those things so git can update on commit.
