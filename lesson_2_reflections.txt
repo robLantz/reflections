@@ -3,3 +3,10 @@ do it?
 When you initialize a repo it creates the necessary meta-data files
 that will hold history and branch information.  We need to initialize
 in order to create those things so git can update on commit.
+
+How is the staging area different from the working directory and the
+repository? What value do you think it offers?
+The staging area is where you place things that will go into a 
+single commit, while the working directory is the native file system, and 
+the repository is where the commits end up.  The staging area allows you
+to commit multiple files at one time.
