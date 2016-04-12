@@ -10,3 +10,7 @@ The staging area is where you place things that will go into a
 single commit, while the working directory is the native file system, and 
 the repository is where the commits end up.  The staging area allows you
 to commit multiple files at one time.
+
+How can you use the staging area to make sure you have one commit per logical change?
+By adding multiple files you can bundle them into the same commit, allowing 
+a logical change to include information in more than just one file.
