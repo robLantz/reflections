@@ -20,3 +20,7 @@ organized? How would branches help?
 You can name brances to be human readable, allowing one to keep the new or 
 experimental features straight.  Branches help by allowing the coder to try new
 things while keeping a working version in tact.
+
+How do the diagrams help you visualize the branch structure?
+By showing which commits are reachable from which branches, one can see
+how current progress can be stored and accessed.
