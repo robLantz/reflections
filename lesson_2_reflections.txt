@@ -29,3 +29,9 @@ What is the result of merging two branches together? Why do we represent it
 in the diagram the way we do?
 Merging two branches incorporates the code from the two branches into one 
 file.  The diagram is such to show parent-child relationships and reachability.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges
+manually?
+Pros, when git does it automatically it could alter the behavior of the project
+in an unintended way.  By detecting a conflict and allowing the user to decide it
+attempts to reconcile the tedium of merging manually with the danger of auto merge.
