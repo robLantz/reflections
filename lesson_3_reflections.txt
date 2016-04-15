@@ -21,3 +21,6 @@ Emailing shared files or posting them to a shared drive or similar (e.g. SharePo
 It would be much harder because it would require MUCH more communication.  It would only
 be easier because the extra communication would decrease the likelihood of an error in 
 that way (though it would increase the likelihood of other errors).
+
+When would I want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+I should make changes in a different branch when I'm working on a part of the project that I don't want to affect the whole project yet.  Making changes in master is less complicated, but it risks incorporating incomplete or incorrect features too early.
