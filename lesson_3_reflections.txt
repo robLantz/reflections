@@ -14,3 +14,10 @@ a repo.  A branch is a split of a project used to experiment with new features a
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It limits the number of potential conflict when updating the project (?)
+
+How would you collaborate without using Git or GitHub?  What would be easier, adn what
+would be harder?
+Emailing shared files or posting them to a shared drive or similar (e.g. SharePoint).
+It would be much harder because it would require MUCH more communication.  It would only
+be easier because the extra communication would decrease the likelihood of an error in 
+that way (though it would increase the likelihood of other errors).
